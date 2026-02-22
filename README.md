@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate A passionate BCA student and aspiring software developer from India developer from India</h3>
+<h3 align="center"> A passionate BCA student and aspiring software developer from India developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-m7204&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-m7204" /> </p>
 
